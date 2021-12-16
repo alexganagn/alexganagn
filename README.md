@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexganagn
 - 👀 Crypto, functional programming, quantitative finance
 - 🌱 Emacs, Solidity
-- 💞️ Arch linux, Crypto projects
+- 💞️ Arch linux, Platform games, Crypto projects
 - 📫 alexis.anagnostakis@yandex.com
 
 <!---
