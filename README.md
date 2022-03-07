@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexganagn
-- 👀 Crypto, functional programming, quantitative finance
-- 🌱 Rust, Emacs, Solidity
-- 💞️ Arch linux, Platform games, Crypto projects
+- 👀 Applied mathematics, statistics
+- 🌱 Rust, Emacs, OpenMP
+- 💞️ Arch linux, Platform games
 - 📫 alexis.anagnostakis@yandex.com
 
 <!---
