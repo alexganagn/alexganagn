@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexganagn
 - 👀 Applied mathematics, statistics
-- 🌱 Rust, Emacs, OpenMP
-- 💞️ Arch linux, Platform games
+- 🌱 
+- 💞️ Arch linux
 - 📫 alexis.anagnostakis@yandex.com
 
 <!---
