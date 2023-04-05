@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexganagn
 - 👀 Applied mathematics, statistics
-- 🌱 
+- 🌱 parallelization, Google Colab
 - 💞️ C++, Python, bash, Arch linux
 - 📫 alexis.anagnostakis@yandex.com
 
