@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexganagn
 - 👀 Applied mathematics, statistics
 - 🌱 
-- 💞️ Arch linux
+- 💞️ C++, Python, bash, Arch linux
 - 📫 alexis.anagnostakis@yandex.com
 
 <!---
